@@ -43,9 +43,8 @@ This project simulates a real-world scenario where a **banking dataset** is anal
 
 ```
 banking-sql-analytics/
-├── assets/ # 📸 Screenshots of dashboard & visuals
-│ ├── dashboard.png
-│ └── eda_plot.png
+├── assets/ # 📸 Screenshots of dashboard, queries, visualizations, etc.
+│ ├── *.png # (Multiple PNG images: Power BI dashboard, Python EDA, SQL results etc)
 ├── dataset/ # 📊 Raw dataset files (CSV/Excel)
 │ ├── Banking.csv
 │ └── Banking.xlsx
