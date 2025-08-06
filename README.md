@@ -98,7 +98,7 @@ The `banking.ipynb` notebook includes:
 ## 📬 Author
 
 **MD Raihan**  
-🎓 Computer Science Engineering | 📊 Data Analytics & MERN Stack Enthusiast  
+🎓 Computer Science Engineering | 📊 Data Analytics
 🔗 [LinkedIn](https://www.linkedin.com/in/md-raihan-9809592aa/)  
 🐙 [GitHub](https://github.com/raihanzzz)
 
